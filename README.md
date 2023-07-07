@@ -17,10 +17,10 @@ This program takes multiple coordinates pinpointed using latitudes and longitude
 #### How is user input processed and what to provide?
 
 Data File To Analyze
-Number of Trials: 10000
+Number of Trials
 number of threads
-Standard Deviation (SD): 5.6
-Noise Floor (NF): -131
+Standard Deviation (SD)
+Noise Floor (NF)
 Output File
 
 if no output file is provided, it by default creates a output.txt, if no thread number is provided GCF is computed
